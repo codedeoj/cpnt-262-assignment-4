@@ -6,6 +6,23 @@
 
 **Author:** Deoj Balcanao
 
+## Components
+**A note on which files contain which components**
+
+**Index Page** 
+- PageHeader
+- AppSectionHeader
+- CardLayout
+- AppCard
+- AppButton
+
+**About Page**
+- PageHeader
+- AppSectionHeader
+- AboutSection
+- AppButton
+- and v-on example
+
 ## Attributions
 Vue.js Docs - https://vuejs.org/
 
